@@ -1,5 +1,7 @@
 # A Process / Compliancy Story, Case of an Organization
 
+*Length: 45 minutes*
+
 For last two years, we have been experimenting within the product development process in product team(s). 
 In this talk, I’ll share the documentation-as-output style implementation of  process we ended up with, 
 and discuss the challenges going forward. While we got from infrequent to frequent releases two times over failing 
