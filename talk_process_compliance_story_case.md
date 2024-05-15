@@ -1,4 +1,4 @@
-A Process / Compliancy Story, Case of an Organization
+# A Process / Compliancy Story, Case of an Organization
 
 For last two years, we have been experimenting within the product development process in product team(s). 
 In this talk, I’ll share the documentation-as-output style implementation of  process we ended up with, 
