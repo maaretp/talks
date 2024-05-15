@@ -11,7 +11,7 @@ let's dissect my experience together. Having just completed the 7th release of y
 
 Key takeaways: 
 
-* Tester brain rewire
-* Turning testing continuous
-* The pipeline and the compliance
+* What is the necessary tester brain rewire
+* How in practice we turn testing continuous and releases routine
+* Importance of conceptual separation of the pipeline and the compliance
 
