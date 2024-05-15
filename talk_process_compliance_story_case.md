@@ -1,4 +1,4 @@
-# A Process / Compliancy Story, Case of an Organization
+# Process / Compliancy Story, Case of an Organization
 
 *Length: 45 minutes*
 
