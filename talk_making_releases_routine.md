@@ -11,7 +11,7 @@ let's dissect our experience together. Having just completed the 7th release of 
 
 Key takeaways: 
 
-* What is the necessary tester brain rewire
+* What is the necessary tester brain rewire for approach to change, trust, certainty and time
 * How in practice we turn testing continuous and releases routine
 * Importance of conceptual separation of the pipeline and the compliance
 
