@@ -1,6 +1,6 @@
 # Code or Low Code - Navigating the Test Automation Options
 
-*Length: 45 minutes* 
+*Length: 30 or 45 minutes* 
 
 Being polyglot and polytool in test automation space is a lot of work. A recurring question for our automation efforts becomes choice of languages and tools. How do I know if my choice of tools is the right one? Is the next great thing really the next great thing, when they all promise increased productivity, especially now in the age of GenAI? 
 
