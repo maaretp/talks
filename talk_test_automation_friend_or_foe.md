@@ -7,3 +7,9 @@ We've been at this test automation thing quite a while, and three decades has ma
 A year ago, we set up a panel conversation to seek the ideas of ending well off with test automation. In this talk, we lend the tension of disagreements of past, to enable learning, combined with the stories of real projects. 
 
 Maybe at this time of AI and getting computers to 'acting humanly', we need to team with an old enemy to make sense of how we peacefully coexist with the new, with healthy boundaries keeping the friendship in check. 
+
+Key takeaways: 
+
+* When stakes are high, we work with friends and foes
+* How to increase odds of good results we can like with the tools
+* How to navigate the recruitment trap and the in-company growth plains
