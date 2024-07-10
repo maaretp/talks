@@ -1,4 +1,4 @@
-# AI-Driven Application Testing
+# Sociotechnical Guardrails for AI-Driven Application Testing
 
 *Length: 45 minutes* 
 
