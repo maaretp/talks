@@ -17,6 +17,6 @@ Käymme läpi seuraavat teemat:
 * AI-pesu ja vihreyskustannukset
 * Tietomassoihin hautautuminen ja väärän tiedon kumoamisen työmäärä
 * Riittävän oikeat vastaukset suhteessa riskeihin
-Ä Väärät ratkaisut oikeisiin ongelmiin
+* Väärät ratkaisut oikeisiin ongelmiin
 
 Listan pituus vihjaa että riskeistä ja huolista on keskusteltu jo paljon. Miten siis tasapainottaa ajankäyttö uhkien ja onnistumisen tukemisen välillä? 
