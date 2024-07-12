@@ -1,6 +1,6 @@
 # Social Software Testing Approaches
 
-*Length: 30 or 45 minutes* 
+*Length: 45 minutes* 
 
 Software teams are well aware of the need for their developers, testers, product owners and other team members to collaborate. Product backlog refinement, 3-amigos sessions and daily meetings create space for sharing planning of the work, but for much of the rest of the time, people are hunched over their own keyboards and screens, working on their own tasks. Even if developers work with each other during pair programming and code review sessions, testers often work on their own.
 

@@ -1,6 +1,6 @@
 # Making Releases Routine
 
-*Length: 30 or 45 minutes* 
+*Length: 45 minutes* 
 
 Moving organizations from infrequent to frequent releases has been my signature move for a decade. While the successes of moving 
 from 30 days to 30 minutes of release timeframe are things I have learned from, nothing teaches you like a good old failure. After a streak of improvements, 
