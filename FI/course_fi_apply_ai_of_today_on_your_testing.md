@@ -31,7 +31,7 @@ ML, LLM ja RAG tekoälymaailman kartalla
 
 Testauksen tehtävien analysointi
 
-* Esimerkkejä testaus tehtävistä tekoälyavustuksen kanssa
+* Esimerkki: kolme testaustehtävää tekoälyavustuksen kanssa
 * OpenAI ChatGPT, GitHub Copilot, Hugging Face ja muut
 * Harjoitus: testauksen tehtävien tunnistaminen ja jakaminen osiin
 
