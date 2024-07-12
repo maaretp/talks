@@ -4,7 +4,7 @@
 
 ## Overview
 
-We have our day to day work in testing. We have new technologies available, and a lot of information on those. We have aspirations of AI with computers acting humanly enough to pair with us in both attended and unattended fashion on our testing work, providing value. As creatures of habit, we need to build new habits in applying the technology pair in our day to day work. 
+We have our day-to-day work in testing. We have new technologies available, and a lot of information on those. We aspire of AI with computers acting humanly enough to pair with us in both attended and unattended fashion on our testing work, providing value. As creatures of habit, we need to build new habits in applying the technology pair in our daily work.
 
 We have ML, LLM, and RAG. We have GitHub Copilot, ChatCGP and Hugging Face. On this course, we take those, learn to work with those from examples and wrap up by building our very own course AI assistant. Instead of the averaged out idea that we all think of testing the average way, let's use RAG - Retrieval Augmented Generation - to create a pipeline to more input of instructions. 
 
