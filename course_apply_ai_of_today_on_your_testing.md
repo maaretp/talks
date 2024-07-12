@@ -35,13 +35,13 @@ Task analysis of what we do in testing
 * OpenAI ChatGPT, GitHub Copilot, Hugging Face and others
 * Exercise: identifying and breaking down testing tasks
 
-Activity: ChatGPT pair testing
+GenAI pair testing
 
 * Benefiting from stochastic parrots
 * Visible and invisible inputs, applied prompt engineering
 * Exercise: GenAI ensemble testing
 
-Activity: RAG yourself an assistant
+RAG yourself an assistant
 
 * Example: 20 years of blogging as input
 * Exercise: Three invisible inputs made visible to build your own assistant

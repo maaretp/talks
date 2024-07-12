@@ -35,13 +35,13 @@ Testauksen tehtävien analysointi
 * OpenAI ChatGPT, GitHub Copilot, Hugging Face ja muut
 * Harjoitus: testauksen tehtävien tunnistaminen ja jakaminen osiin
 
-Aktiviteetti: ChatGPT-paritestaus
+ChatGPT-paritestaus
 
 * Hyötyminen stokastisista papukaijoista
 * Näkyvät ja näkymättömät syötteet, sovellettu kehotteiden muokkaus
 * Harjoitus: GenAI-ryhmätestaus
 
-Aktiviteetti: RAG-rakenna itsellesi avustaja
+RAG-rakenna itsellesi avustaja
 
 * Esimerkki: 20 vuotta bloggaamista syötteenä
 * Harjoitus: Kolme näkymätöntä syötettä näkyviksi oman avustajan rakentamiseksi
