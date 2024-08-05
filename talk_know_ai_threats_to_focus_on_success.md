@@ -18,5 +18,7 @@ We will cover the following themes:
 * Masses of data and effort in refuting misinformation
 * Sufficiently correct answers relative to risks
 * Wrong solutions to right problems
+* Squandering trust, defaulting to suspicion
+* 2nd degree systems impact
 
 The length of this list suggests that there has already been much discussion about risks and concerns. So, how do we balance the use of time between addressing threats and supporting success?

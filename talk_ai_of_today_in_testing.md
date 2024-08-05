@@ -1,4 +1,4 @@
-# AI of Today in Testing
+# Experiences in AI of Today in Testing
 
 *Length: 30 or 45 minutes* 
 
@@ -7,3 +7,9 @@ Future is already here, it's just not evenly divided. Scifi-author Gibson's word
 This talk centers around three examples of applying AI tooling for testing purposes with technologies available today. 
 
 Changing habits while assessing impact of one's work is an essential skill, whether you are testing as a tester or in any other role. Testing is too important to be left just for testers and should interest us all. It is also too important to be left without testers. 
+
+Takeaways:
+
+* Test code generation in your IDE
+* Integrating AI tools for review and test generation to pipelines
+* Creating RAG-assistant with your notes for Pair Testing
