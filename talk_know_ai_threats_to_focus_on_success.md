@@ -2,7 +2,7 @@
 
 *Length: 45 min* 
 
-Professional testing expertise is about knowing how things go wrong and helping to correct the course. However, the time spent on warnings takes away from aiding success, and testing perspectives balance the timely and properly priorized amplification of failure signals. In this talk, we will discuss themed warnings about AI to focus on whether the issues are ones we can't live with when evaluating AI in testing.
+Professional testing expertise is about knowing how things go wrong and helping to correct the course. However, the time spent on warnings takes away from aiding success, and testing perspectives balance the timely and properly prioritized amplification of failure signals. In this talk, we will discuss themed warnings about AI to focus on whether the issues are ones we can't live with when evaluating AI in testing.
 
 We will cover the following themes:
 
