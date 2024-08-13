@@ -10,6 +10,7 @@ We will cover the following themes:
 * Understanding AI and the need for system understanding
 * Widespread plagiarism and distinguishing between illegal and otherwise wrong
 * Societal and personal biases
+* Pairing exhaustion
 * Data pollution
 * Skill atrophy
 * Keeping secrets secret and preserving local culture
