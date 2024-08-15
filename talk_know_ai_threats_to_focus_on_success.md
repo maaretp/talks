@@ -9,6 +9,7 @@ We will cover the following themes:
 * Humanizing technology
 * Understanding AI and the need for system understanding
 * Widespread plagiarism and distinguishing between illegal and otherwise wrong
+* Responsibility of illegal outputs
 * Societal and personal biases
 * Pairing exhaustion
 * Data pollution
