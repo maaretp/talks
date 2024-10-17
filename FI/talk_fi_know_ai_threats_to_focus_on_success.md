@@ -18,5 +18,7 @@ Käymme läpi seuraavat teemat:
 * Tietomassoihin hautautuminen ja väärän tiedon kumoamisen työmäärä
 * Riittävän oikeat vastaukset suhteessa riskeihin
 * Väärät ratkaisut oikeisiin ongelmiin
+* Luottamuksen tuhlailu, oletuksena epäluulo
+* Toisen asteen systeemiset vaikutukset
 
 Listan pituus vihjaa että riskeistä ja huolista on keskusteltu jo paljon. Miten siis tasapainottaa ajankäyttö uhkien ja onnistumisen tukemisen välillä? 
