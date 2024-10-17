@@ -4,11 +4,11 @@
 
 ## Yleiskatsaus
 
-Päivittäisessä testausarjessamme meillä on käytettävissämme uusia teknologioita ja paljon tietoa niistä. Haaveilemme tekoälystä, joka toimisi tarpeeksi inhimillisesti voidakseen työskennellä kanssamme testaustoiminnassamme, sekä valvotusti että valvomatta, tuottaen arvoa. Työkalut ovat saatavilla, mutta meillä on opittavaa sekä niiden käytössä että omissa tavoissamme voidaksemme hyödyntää tätä teknologiaparia päivittäisessä työssämme. 
+Päivittäisessä testausarjessamme meillä on käytettävissämme uusia teknologioita ja paljon tietoa niistä. Haaveilemme tekoälystä, joka toimisi tarpeeksi inhimillisesti voidakseen työskennellä kanssamme testaustoiminnassa, sekä valvotusti että valvomatta, tuottaen arvoa. Työkalut ovat saatavilla, mutta meillä on opittavaa sekä niiden käytössä että omissa tavoissamme voidaksemme hyödyntää tätä teknologiaparia päivittäisessä työssämme. 
 
 On koneoppimista (ML), laajoja kielimalleja (LLM) ja RAG (Retrieval Augmented Generation). On GitHub Copilot, ChatCGP ja Hugging Face. Tällä kurssilla otamme nämä työkalut käyttöön, opimme työskentelemään niiden kanssa esimerkkien kautta ja lopuksi rakennamme oman kurssilaisten tekoälyavustajan. Sen sijaan että avustajamme olisi keskimääräinen kaikesta maailman tiedosta opetettu, annamme sille omaa materiaaliamme ja luomme putken omista teksteistämme avustajaa ohjaamaan. 
 
-Rakentaessamme omaa avustaa, opimme näkemään mitä valmiita ratkaisuja on saatavilla, mitä sosio-teknisiä suojamekanismeja tarvitsemme, ja kuinka muutamme tapojamme hyödyntääksemme tekoälyä sekä sen valvotussa että automatisoiduissa muodossa testauksessa. 
+Rakentaessamme omaa avustajaa, opimme näkemään mitä valmiita ratkaisuja on saatavilla, mitä sosio-teknisiä turvarajoja tarvitsemme, ja kuinka muutamme tapojamme hyödyntääksemme tekoälyä sekä sen valvotussa että automatisoiduissa muodossa testauksessa. 
 
 Kurssi on käytännönläheinen oppimiskurssi, ja harjoitukset tehdään ryhmätestausmuodossa, jossa osallistujien rooleja kierrätetään. Harjoitusten tukena käytettävä kokemusperäinen rakenne ajankäytön kohdistumisen yhteiseen käytännön kokemukseen tekoälyn soveltamisesta testaustehtäviin.
 
@@ -46,8 +46,8 @@ RAG-rakenna itsellesi avustaja
 * Esimerkki: 20 vuotta bloggaamista syötteenä
 * Harjoitus: Kolme näkymätöntä syötettä näkyviksi oman avustajan rakentamiseksi
 
-Sosio-tekniset suojamekanismit ja tekoälytavan luominen
+Sosio-tekniset turvarajat ja tekoälytavan luominen
 
-* Keskeiset sosio-tekniset suojamekanismit: tehtävien jakaminen, valvotun ja valvomattoman tasapainottaminen, testausaktiviteettien ajoitus, kokeilu
+* Muut sosio-tekniset turvarajat: tehtävien jakaminen, valvotun ja valvomattoman tasapainottaminen, testausaktiviteettien ajoitus, kokeilu, kustannustietoisuus
 * Tekoälyn käytön tekeminen tavaksi, keskeisen turvarajan muistaminen
 * Tekoälyn epäonnistumissignaalien vahvistamisen rooli onnistumisen realistisena eteenpäin suuntautuvana perustana
