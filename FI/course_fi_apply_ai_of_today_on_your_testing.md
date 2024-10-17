@@ -8,7 +8,7 @@ Päivittäisessä testausarjessamme meillä on käytettävissämme uusia teknolo
 
 On koneoppimista (ML), laajoja kielimalleja (LLM) ja RAG (Retrieval Augmented Generation). On GitHub Copilot, ChatCGP ja Hugging Face. Tällä kurssilla otamme nämä työkalut käyttöön, opimme työskentelemään niiden kanssa esimerkkien kautta ja lopuksi rakennamme oman kurssilaisten tekoälyavustajan. Sen sijaan että avustajamme olisi keskimääräinen kaikesta maailman tiedosta opetettu, annamme sille omaa materiaaliamme ja luomme putken omista teksteistämme avustajaa ohjaamaan. 
 
-Rakentaessamme omaa avustajaa, opimme näkemään mitä valmiita ratkaisuja on saatavilla, mitä sosio-teknisiä turvarajoja tarvitsemme, ja kuinka muutamme tapojamme hyödyntääksemme tekoälyä sekä sen valvotussa että automatisoiduissa muodossa testauksessa. 
+Rakentaessamme omaa avustajaa, opimme näkemään mitä valmiita ratkaisuja on saatavilla, mitä sosioteknisiä turvarajoja tarvitsemme, ja kuinka muutamme tapojamme hyödyntääksemme tekoälyä sekä sen valvotussa että automatisoiduissa muodossa testauksessa. 
 
 Kurssi on käytännönläheinen oppimiskurssi, ja harjoitukset tehdään ryhmätestausmuodossa, jossa osallistujien rooleja kierrätetään. Harjoitusten tukena käytettävä kokemusperäinen rakenne mahdollistaa ajankäytön kohdistumisen yhteiseen käytännön kokemukseen tekoälyn soveltamisesta testaustehtäviin.
 
@@ -27,7 +27,7 @@ ML, LLM ja RAG tekoälymaailman kartalla
 
 * Tekoälyn luominen ja käyttäminen
 * Putkiajattelu: syötteet, suodattimet, mallit, tulokset
-* Keskeinen sosio-tekninen turvaraja: tietojen omistajuus ja luottamuksellisuus
+* Keskeinen sosiotekninen turvaraja: tietojen omistajuus ja luottamuksellisuus
 
 Testauksen tehtävien analysointi
 
@@ -48,6 +48,6 @@ RAG-rakenna itsellesi avustaja
 
 Sosio-tekniset turvarajat ja tekoälytavan luominen
 
-* Muut sosio-tekniset turvarajat: tehtävien jakaminen, valvotun ja valvomattoman tasapainottaminen, testausaktiviteettien ajoitus, kokeilu, kustannustietoisuus
+* Muut sosiotekniset turvarajat: tehtävien jakaminen, valvotun ja valvomattoman tasapainottaminen, testausaktiviteettien ajoitus, kokeilu, kustannustietoisuus
 * Tekoälyn käytön tekeminen tavaksi, keskeisen turvarajan muistaminen
 * Tekoälyn epäonnistumissignaalien vahvistamisen rooli onnistumisen realistisena eteenpäin suuntautuvana perustana
