@@ -10,7 +10,7 @@ On koneoppimista (ML), laajoja kielimalleja (LLM) ja RAG (Retrieval Augmented Ge
 
 Rakentaessamme omaa avustajaa, opimme näkemään mitä valmiita ratkaisuja on saatavilla, mitä sosio-teknisiä turvarajoja tarvitsemme, ja kuinka muutamme tapojamme hyödyntääksemme tekoälyä sekä sen valvotussa että automatisoiduissa muodossa testauksessa. 
 
-Kurssi on käytännönläheinen oppimiskurssi, ja harjoitukset tehdään ryhmätestausmuodossa, jossa osallistujien rooleja kierrätetään. Harjoitusten tukena käytettävä kokemusperäinen rakenne ajankäytön kohdistumisen yhteiseen käytännön kokemukseen tekoälyn soveltamisesta testaustehtäviin.
+Kurssi on käytännönläheinen oppimiskurssi, ja harjoitukset tehdään ryhmätestausmuodossa, jossa osallistujien rooleja kierrätetään. Harjoitusten tukena käytettävä kokemusperäinen rakenne mahdollistaa ajankäytön kohdistumisen yhteiseen käytännön kokemukseen tekoälyn soveltamisesta testaustehtäviin.
 
 Tämä koulutuspäivä opettaa sinulle:
 
