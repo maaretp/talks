@@ -4,11 +4,11 @@ Yliopistolla testausta opettaessani pari vuosikymmentä sitten materiaaleissani 
 
 "Kiva kuulla että teemme tässä testausta järkevästi, eikä niinkuin opetit silloin kurssilla"
 
-Kurssilla opettamani tapa tuotti suuria määriä dokumentaatiota, ja dokumentaation tuottaminen oli aikaa pois hyvän testauksen tekemisestä. Vuosikymmenet ovat opettaneet minulle kompromissin, jossa testitapausten dokumentoinnista on hyötyä. Tämä tapa eroaa kuitenkin projektien käytänteistä, ja siksi käytänkin nimitystä *nykypäivän testitapaukset*. Ne ovat otsikoita toisteisille testaustehtäville, tai vaiheittaista automaation rakentamista.
+Kurssilla opettamani tapa tuotti suuria määriä dokumentaatiota, ja dokumentaation tuottaminen oli aikaa pois hyvän testauksen tekemisestä. Kun yhdessä viimeaikaisessa projektissa perin 1500 testitapausta, laskin että niiden pikainen lukeminen läpi olisi 11 työpäivän investointi. Päätimme laittaa ne sivuun, ja arvioida niiden hyödyllisyyttä kysymysten noustessa. Emme löytäneet tarvitsemiamme vastauksia niistä hauilla seuraavan vuoden aikana. 
 
-Kun yhdessä viimeaikaisessa projektissa perin 1500 testitapausta, laskin että niiden pikainen lukeminen läpi olisi 11 työpäivän investointi. Päätimme laittaa ne sivuun, ja arvioida niiden hyödyllisyyttä kysymysten noustessa. Emme löytäneet tarvitsemiamme vastauksia niistä hauilla seuraavan vuoden aikana. 
+Vuosikymmenet ovat opettaneet minulle kompromissin, jossa testitapausten dokumentoinnista on hyötyä. Tämä tapa eroaa kuitenkin projektien käytänteistä, ja siksi käytänkin nimitystä *nykypäivän testitapaukset*. Ne ovat otsikoita toisteisille testaustehtäville, tai vaiheittaista automaation rakentamista.
 
-Käydään läpi testauksen tehtävät ja testitapaukset Jira + Jira XRay -testihallintasovelluksen kontekstissa, ja katsotaan mitä nykypäivän testitapaukset testien hallinnan käytäntönä voisi tarkoittaa. Keskustelu on erityisen ajankohtainen generatiivisen tekoälyn tuottaessa meille luettavaa - enemmän kuin 11 työpäivän verran.
+Käydään siis läpi testauksen tehtävät ja testitapaukset Jira + Jira XRay -testihallintasovelluksen kontekstissa, ja katsotaan mitä nykypäivän testitapaukset testien hallinnan käytäntönä voisi tarkoittaa. Keskustelu on erityisen ajankohtainen generatiivisen tekoälyn tuottaessa meille luettavaa - enemmän kuin 11 työpäivän verran.
 
 
 
