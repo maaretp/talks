@@ -1,12 +1,12 @@
 # Exploratory Testing on Computer Interfaces (APIs)
 
-*Length: 1 day* 
+*Length: 1 day*
 
 Exploratory Testing is a skilled multidisciplinary style of testing. Many have learned to apply it on user interfaces that naturally speak to testers as their external imagination. Yet with systems of today, it is important we move that skill of smart thinking with external imagination to interfaces hidden from users - public and private APIs. How can you use exploratory testing on something that does not have a GUI?
 
-We shape up our skills of exploring both the functional and parafunctional aspects of a system through its APIs in their operating environments, without forgetting developer experience of having to maintain and troubleshoot these systems. We learn to be intentional with our APIs, instead of being accidental - through delivering relevant, timely feedback. 
+We shape up our skills of exploring both the functional and parafunctional aspects of a system through its APIs in their operating environments, without forgetting developer experience of having to maintain and troubleshoot these systems. We learn to be intentional with our APIs, instead of being accidental - through delivering relevant, timely feedback.
 
-Intertwining test automation and exploration, we include considerations of the best for today and for the future. For great testing bringing value now as well as when we are not around, we need to be great at testing - uncovering relevant information - and programming - building maintainable test systems. At the core of all of this is learning. What we lack in a set of skills, we can compensate through collaboration. 
+Intertwining test automation and exploration, we include considerations of the best for today and for the future. For great testing bringing value now as well as when we are not around, we need to be great at testing - uncovering relevant information - and programming - building maintainable test systems. At the core of all of this is learning. What we lack in a set of skills, we can compensate through collaboration.
 
 In this course, we are learning these skills hands-on testing various interfaces with various tools. It’s a deep dive into applying exploratory testing at computer interface level, not on the tools. The main things you will take out of this session are thinking in terms of coverage, generating versatile ideas on API level, and being aware of opportunity cost to control your own choices as you are testing. 
 

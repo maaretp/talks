@@ -1,5 +1,6 @@
 # Python for Testing
-*Duration: 2 days, in four half-day chunks spread over 2 months*
+
+*Length: 2 days, in four half-day chunks spread over 2 months*
 
 **Script things of value for testing purposes or write test automation in python. Focus on practical knowledge and learning by doing.  Set up a programming environment, work with logs, programmatically drive interfaces, set up reusable structures for your tests and generate test data.**
 
