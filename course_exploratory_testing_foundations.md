@@ -12,6 +12,8 @@ Session 1. Explore with intent
 Session 2. Explore using test automation as documentation
 Session 3. Explore to confirm customer reports
 
+## Contents
+
 Session 1: Explore with intent
 
 This session focuses on learning about self-management skills as the core of exploratory testing. Exploratory testing an application can turn into a very different experience depending on the constraint you work with. In this session, we give you a constraint of being very intentional about your actions and learning. When you need to think on multiple levels at once, how do you learn to do that more effectively?
