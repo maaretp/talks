@@ -23,3 +23,5 @@ Exploratory testing an application can turn into a very different experience dep
 Session 3: Explore to confirm customer reports
 
 In this session, we give you a constraint of user reported bugs, and your task is to confirm these reports on an application you have not used before. What are the skills required for working from vague reports to specific and what are you learning about an application if what you learn about it is what others have complained about? Given the answer key to all the bugs we know of worth mentioning, we end the session in reflection of what it would have taken for us to find these during the course.
+
+*Note: this course can be taught with Pytest or Robot Framework.*
