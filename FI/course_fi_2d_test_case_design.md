@@ -88,8 +88,7 @@ Testitapausten suunnittelun tiekartta
 * Testitapausten suunnittelun tekniikat ja valinta
 * Kokonaisvaltainen testausstrategia: testauksen nelikenttä
 * Kasvusuunnat ja opin lähteet
- 
- 
+
 ## Koulutuksen erityispiirteitä
 
 * Kouluttaja on aihepiirin syvällinen osaaja sekä pidetty puhuja, joka saa toistuvasti hyvää palautetta pitämistään koulutuksista ja esityksistä
