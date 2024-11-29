@@ -53,9 +53,11 @@ Session 3: Web testing and structure of tests
 * Run in container in pipeline
 
 Session 4: Extending your python testing capability
+
 * PyTest-BDD
 * Hypothesis
 * Windows drivers: flaui
 * Reporting framework: Allure
+* aXe
 * Pipenv and poetry
 * Robot Framework
