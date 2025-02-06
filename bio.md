@@ -6,4 +6,4 @@ Maaret Pyhäjärvi is an exploratory tester extraordinaire and Director, Consult
 
 ## Short
 
-Maaret Pyhäjärvi is an exploratory tester extraordinaire and Director, Consulting at CGI. She is a tester, (polyglot) programmer, speaker, author, conference designer and a community facilitator. She has been awarded prestigious testing awards, Most Influential Agile Testing Professional Person 2016 (MIATPP) and EuroSTAR Testing Excellence Award (2020), Tester Worth Appreciating (2022), and selected as Top-100 Most Influential in ICT in Finland 2019-2023. 
+Maaret Pyhäjärvi is an exploratory tester extraordinaire and Director, Consulting at CGI. She is a tester, (polyglot) programmer, speaker, author, conference designer and a community facilitator. She has been awarded prestigious testing awards, Most Influential Agile Testing Professional Person 2016 (MIATPP) and EuroSTAR Testing Excellence Award (2020), Tester Worth Appreciating (2022), and selected as Top-100 Most Influential in ICT in Finland 2019-2024.
