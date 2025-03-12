@@ -17,3 +17,4 @@ You will learn:
 * What is a good epic / story and how to describe acceptance criteria and examples to illustrate the scope
 * Transforming notes into standardized forms of specifications
 * How communication is more in practice than writing and reading
+* Incremental acceptance testing
