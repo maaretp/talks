@@ -9,5 +9,6 @@ With doing that, we'll walk through, in python code:
 4. Unit testing with properties, and generation of tests
 5. Unit testing with a reference 
 6. Knowing your domain, it will surprise you
+7. Knowing your environment, it will surprise you
 
 We'll wrap up with a conversation on the boundaries of programmers and testers, and if they should exist. 
