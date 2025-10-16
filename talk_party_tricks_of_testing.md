@@ -2,9 +2,9 @@
 
 Party tricks are packaged responses to things we in testing often need to illustrate. For me they come in three forms, and I have a collection to share these days. 
 
-Little exercises that create a shared experience
-Stories with an educational point
-Testing proverbs (avoid name) and quotes (drop a name)
+* Little exercises that create a shared experience
+* Stories with an educational point
+* Testing proverbs (avoid name) and quotes (drop a name)
 
 Let's sample some! 
 
