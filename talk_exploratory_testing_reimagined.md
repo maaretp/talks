@@ -8,10 +8,10 @@ In this talk, we reimagine exploratory testing as I have experienced it:
 
 - Information intake shapes what we fail to see, and we can move beyond the failure.
 - Test cases are primarily captured programmatically as test automation, as output of exploring.
-- There are no manual test cases with steps, lists of ideas of explore,
+- There are no manual test cases with steps, but lists of ideas to explore.
 - Testing does not end with report and retesting, but expands to debugging and repairs.
-- Working agreements with team, and exploring on unit level. 
-- AI raises the bar of what is possible.
+- Working agreements with team, and exploring on unit level.
+- AI raises the bar of what is possible as external imagination.
 
 We challenge three habits we need to outgrow. First, asking for test cases. Second, defaulting value to Jira tickets. Third, settling for information that is not actionable.
 
@@ -19,8 +19,8 @@ I'll demo an application with problems. We'll walk through the shift together: f
 
 The age of AI brings forth a significant opportunity of task expansion natural to exploratory testing. Instead of exploring for bugs in the traditional sense, we explore for intent, value, context, alignment, and experience information. We share to raise the bar for everyone - it's about testing more than testers.
 
-
 ---
+
 _Length of experiential learning: + 1 hour_
 
 After the talk and demo, it's your turn to work on pairs. With Visual Studio Code and GitHub Copilot, you explore what you're able to produce by dropping task-specific agent files to assist you on your exploration.
