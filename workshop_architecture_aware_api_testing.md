@@ -2,10 +2,13 @@
 
 _Length: 1/2 day_
 
-Target audience: quality engineers working with APIs and method signatures
-Prerequisites: technically inclined, unafraid of code
-Participants need: Laptop with Bruno, a code editor, and a REST client or HTTP library in their language of choice
-Provided: Practice API environment, examples in python
+_Target audience_: quality engineers working with APIs and method signatures
+
+_Prerequisites_: technically inclined, unafraid of code
+
+_Participants need_: Laptop with Bruno, a code editor, and a REST client or HTTP library in their language of choice
+
+_Provided_: Practice API environment, examples in python
 
 ## Description
 
