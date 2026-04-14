@@ -10,6 +10,7 @@ In this talk, we reimagine exploratory testing as I have experienced it:
 - Test cases are primarily captured programmatically as test automation, as output of exploring.
 - There are no manual test cases with steps, lists of ideas of explore,
 - Testing does not end with report and retesting, but expands to debugging and repairs.
+- Working agreements with team, and exploring on unit level. 
 - AI raises the bar of what is possible.
 
 We challenge three habits we need to outgrow. First, asking for test cases. Second, defaulting value to Jira tickets. Third, settling for information that is not actionable.
