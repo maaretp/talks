@@ -19,7 +19,9 @@ I'll demo an application with problems. We'll walk through the shift together: f
 
 The age of AI brings forth a significant opportunity of task expansion natural to exploratory testing. Instead of exploring for bugs in the traditional sense, we explore for intent, value, context, alignment, and experience information. We share to raise the bar for everyone - it's about testing more than testers.
 
+
 ---
+_Length of experiential learning: + 1 hour_
 
 After the talk and demo, it's your turn to work on pairs. With Visual Studio Code and GitHub Copilot, you explore what you're able to produce by dropping task-specific agent files to assist you on your exploration.
 
