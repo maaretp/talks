@@ -1,0 +1,3 @@
+# Better Together: Humans, AI, and the Next Quality Benchmark
+
+Maaret Pyhäjärvi benchmarked testing results on a known-buggy ToDo app, comparing herself testing alone, herself with AI, AI guided by her prompts, AI alone, and 57 other human testers - finding that human-with-AI (73 issues, 100%) dramatically outperformed humans alone (average 18%) and AI alone (5%). The experiment showed that AI significantly boosts results when guided by a skilled tester, but performs poorly without thoughtful prompting and exploratory skill. Her conclusion: AI won’t replace testers, but testers who effectively use AI will outperform those who don’t - and raising the quality bar requires both human expertise and AI leverage.
