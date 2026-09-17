@@ -166,6 +166,7 @@ SHOW 2: 10 min
 
 TELL 3&4: 10 min
 - impacts: becoming a builder (site for friend, hackathon...) and a learner
+- impacts: uncertainty requires relationship building and trust for us to move through it
 
 QA: 5 min
 
