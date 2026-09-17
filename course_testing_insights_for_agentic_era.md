@@ -12,7 +12,7 @@ All the exercises and materials are available publicly under Creative Commons At
 
 **Instructor**
 
-Maaret Pyhäjärvi, an exploratory tester extraordinaire and developer, and a director of testing services at CGI, has three decades on hands-on experience in testing. On side of work, she has taught thousands through both experiential sessions and experience talks, delivering 700 sessions in 30 countries. She is a globally recognized testing expert, awarded two prestigious international awards for her industry contributions. In Finland she has been one of ICT-100 most influential for six years in a row.
+Maaret Pyhäjärvi, an exploratory tester extraordinaire and a developer, and a director of testing services at CGI, has three decades on hands-on experience in testing. On side of work, she has taught thousands through both experiential sessions and experience talks, delivering 700 sessions in 30 countries. She is a globally recognized testing expert, awarded two prestigious international awards for her industry contributions. In Finland she has been one of ICT-100 most influential for six years in a row.
 
 **Sessions**
 
@@ -55,3 +55,6 @@ In this session, we take a three tier architecture of control points of explorin
   - architecture-aware testing
   - automated test maintenance
   - cost of quality beyond appraisal
+
+
+

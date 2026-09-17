@@ -149,4 +149,50 @@ The change: V&V used to rely on role separation to create objectivity. Now solo 
 has context menu
 Replying to external participants.
 
+---
+# ideas to think of
 
+Introduce our backgrounds: what is exploratory and what is V&V - 5 min
+
+The "exercises" - 5 min
+- raster reveal * SHOW
+- capture the bugs * SHOW
+- potion shop with fixing * TELL
+- vibe coding own app * TELL
+
+SHOW 1: 10 min
+
+SHOW 2: 10 min
+
+TELL 3&4: 10 min
+
+QA: 5 min
+
+
+
+Introduce the polar bear - 10 min 
+  * uncertainty
+  * specifications anchor your expectations
+  * coverage strategies
+  * drift of expectations
+
+Vibe coding ("my intent")
+
+Vibe testing ("someone else's intent")
+
+
+PROMPT
+Sreenshot 1
+
+RESULT
+Word count is inflated by punctuation-only tokens (e.g. "..." or "!!!" each counted as a word)
+"We're", "They're", "You're" are not detected as e-prime violations at all
+Genuine possessives ("Bob's", "dog's", "James's") are falsely flagged as possible violations
+"Let's" is falsely flagged as a possible violation
+Smart/curly apostrophes (') break detection entirely — no violations found with typographic quotes
+"Possible Violations" counter is mislabeled — only counts words ending in 's, not real missed violations
+"there's/that's/what's/who's/here's/how's" are downgraded to weak warnings instead of full violations
+Missing favicon.ico causes a 404 console error on load
+
+In App: 
+Screenshot 2
