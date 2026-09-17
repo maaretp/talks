@@ -165,6 +165,7 @@ SHOW 1: 10 min
 SHOW 2: 10 min
 
 TELL 3&4: 10 min
+- impacts: becoming a builder (site for friend, hackathon...) and a learner
 
 QA: 5 min
 
