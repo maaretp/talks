@@ -2,7 +2,7 @@
 
 Tekoälyä pitää osata, mutta mitä se käytännössä tarkoittaa? Mitä sillä tehdään ja miten omaa kokemusten kattavuutta voi laajentaa? Tekoäly ei ole binäärinen kyllä/ei, vaan hienosäätöinen valikoima kokemuksia yhdistettynä kaikkeen mitä työssämme haluamme tehdä. CGI:llä keskustelua tukemaan kerättiin lista 29 erilaisesta kokemuksesta, jota vasten on arvioitu mitä olemme jo ryhmänä ja yksilöinä erilaisissa kokoonpanoissa päässeet kokemaan, miten polulla voisi saada tekoälyavusteisesti arvioitua omaa tilannetta ja miten kerryttää kokemuksia, ja puhua niistä monipuolisemmin.
 
-![ai-native-individual-experience](ai-native-individual-experience.png)
+![ai-native-individual-experience](https://github.com/maaretp/talks/blob/main/ai-native-individual-experiences.png?raw=true)
 
 Tässä työpajassa:
 
@@ -22,7 +22,7 @@ Tarvitset:
 
 We need to know how to use AI, but what does that mean in practice? What do we do with it, and how can we broaden our experience coverage? AI use is not a binary yes/no; it is a nuanced range of experiences connected to everything we want to accomplish in our work. At CGI, a list of 29 different experiences was compiled to support discussion. It has been used to assess what we have already experienced as a group and as individuals in different configurations, how AI can help us assess where we are on this journey, and how we can gain experiences and talk about them more broadly.
 
-![ai-native-individual-experience](ai-native-individual-experience.png)
+![ai-native-individual-experience](https://github.com/maaretp/talks/blob/main/ai-native-individual-experiences.png?raw=true)
 
 In this workshop:
 
