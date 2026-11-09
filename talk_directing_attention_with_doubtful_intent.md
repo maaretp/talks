@@ -1,6 +1,6 @@
 # Directing Attention with Doubtful Intent
 
-_Length: 30 or 45 minutes_
+_Length: 45 minutes_
 
 People now get things done by asking for them: a fix to our codebase, a new feature, an entire system built to a specification. Doubtful intent is asking while doubting what comes back. I doubt the fix comes without side effects. I doubt the feature meets the expectations we never thought to say out loud. I doubt the system works across all the scenarios and perspectives that matter.
 
