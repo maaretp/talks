@@ -2,7 +2,9 @@
 
 _Length: 30 or 45 minutes_
 
-Requirements are hypotheses: incomplete, sometimes contradictory, often wrong. Yet we still pass them from role to role as if they were raw material. On one project, eight months of specification fed two sprints of development. Doubtful intent is a different way of asking. Instead of asking AI to confirm what we meant, we ask it for the evidence against us and let that evidence decide where attention goes.
+Requirements are hypotheses: incomplete, sometimes contradictory, often wrong. Yet we still pass them from role to role as if they were raw material. On one project, eight months of specification fed two sprints of AI-native development. 
+
+This talk takes an empirical, quality engineering view: there is no specification waiting to be written down. We build it up as we go, from what we intend, what we build, and the feedback we get. Doubtful intent is how we ask while building it. Instead of asking AI to confirm what we meant, we ask it for the evidence against us. That evidence decides where attention goes, so the specification grows toward the right system, and feedback confirms we got what we were seeking.
 
 In this talk, I share two practices we tried, one at each end of the work: specification and testing. Each is aimed at a problem we kept running into without it:
 
