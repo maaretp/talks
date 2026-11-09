@@ -2,12 +2,11 @@
 
 _Length: 30 or 45 minutes_
 
-Eight months of specification for two sprints of development shows a new failure mode: a handoff-based way of working fails at value delivery. Requirements aren't raw materials; they're hypotheses, often incomplete, contradictory, and frequently wrong. Removing handoffs needs a different kind of asking: doubtful intent. It is grounded in Dijkstra's age-old wisdom: you can't prove that it works, but every honest failed attempt to show it doesn't brings you closer to a practical proof.
+Requirements are hypotheses: incomplete, sometimes contradictory, often wrong. Yet we still pass them from role to role as if they were raw material. On one project, eight months of specification fed two sprints of development. Doubtful intent is a different way of asking. Instead of asking AI to confirm what we meant, we ask it for the evidence against us and let that evidence decide where attention goes.
 
-In this talk, I share three experiments in directing attention with doubtful intent. Each follows the same pattern: generate, surface, reconcile. One brings specifications into the team socially, so developers specify as they solve. Scope does not creep, understanding grows. Two sample to surface what deserves attention in testing:
+In this talk, I share two practices we tried, one at each end of the work: specification and testing. Each is aimed at a problem we kept running into without it:
 
-- Living common ground. Social intake of specifications through a knowledge base that grows from what we say and write: one shared core, a view for each role, every change traced, and text that turns executable over time.
-- Property-based testing. LLMs propose rules that humans struggle to state, and humans judge them where sampled examples fail.
-- Model reconciliation. AI generates models of the system, and the gaps between those models and our expectations show where to look.
+- **Living common ground.** *Without it*, specification is a handoff: written apart from the people who build, and out of date by the time it arrives. *With it*, specification enters through the team's conversations and writing and builds a shared knowledge base with role-specific views, traceable changes, and a path from text to executable specification. Developers specify as they solve. Scope stays put while understanding grows.
+- **System properties.** *Without them*, our tests cover the examples we thought of, and the rules behind them stay unstated. *With them*, AI proposes candidate properties, a model of what should hold true in the domain. The team judges which matter, and we check the built system against them. Mismatches show where expectations and behavior part ways.
 
-Ask AI for the evidence against you, and let doubt show you where to look.
+Both follow the same pattern: generate, surface, reconcile. You'll leave with two ways to ask AI for the evidence against you, and to let doubt show you where to look.
